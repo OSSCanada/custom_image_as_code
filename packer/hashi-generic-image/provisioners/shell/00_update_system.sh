@@ -1,5 +1,5 @@
 #!/bin/bash
 
-sudo apt update
+sudo apt-get update
 
-sudo apt install -y wget unzip jq
+sudo apt-get install -y wget unzip jq
